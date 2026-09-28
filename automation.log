@@ -1,0 +1,8 @@
+2026-09-28 17:14:49,409 - INFO - Moved notes.txt -> Text/notes.txt
+2026-09-28 17:14:49,415 - INFO - Moved photo.jpg -> Images/photo.jpg
+2026-09-28 17:14:49,420 - INFO - Moved program.py -> Python/program.py
+2026-09-28 17:14:49,427 - INFO - Moved resume.pdf -> Documents/resume.pdf
+2026-09-28 17:14:49,431 - INFO - Moved song.mp3 -> Audio/song.mp3
+2026-09-28 17:14:49,433 - INFO - File organization completed. Total files moved: 5
+2026-09-28 17:15:57,254 - ERROR - Folder does not exist: wrong_folder
+2026-09-28 17:22:33,797 - INFO - File organization completed. Total files moved: 0
